@@ -9,9 +9,9 @@ Requirements:
 - numpy
 - pickle
 
-Shutouts:
+### Shutouts:
 
-./demo.jpg
+[demo](demo.jpg)
 
 This is a toy implementation of a common **text classification** model called RNNText.
 
